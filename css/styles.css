@@ -806,7 +806,7 @@ address a:focus {
     border-radius: 2px;
     border: 1px solid rgba(46, 47, 66, 0.40);
     margin-right: 8px;
-    display: inline-flex;
+    display:inline-flex;
     align-items: center;
     justify-content: center;
     fill: transparent;
@@ -816,7 +816,8 @@ address a:focus {
 .check-input:checked + .check-text span {
     background-color: #404BBF;
     border: none;
-    fill: #F4F4FD;;
+    fill: #F4F4FD;
+    display:inline-flex;
 }
 .form-lebel-link {
     color: #4d5ae5;
