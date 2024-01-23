@@ -756,7 +756,7 @@ address a:focus {
     letter-spacing: 0.04em;
     color: #8e8f99;
 }
-.form-lebel-span{
+.form-lebel-span {
     position: relative;
     fill: transparent;
     justify-content: center;
@@ -785,11 +785,7 @@ address a:focus {
     width: 16px;
     height: 16px;
 }
-/*input[type="checkbox"]:checked {
-    background-color:#404BBF;
-    border: none;
-    fill:#F4F4FD;
-}*/
+
 .form-lebel-link {
     color: #4d5ae5;
     text-decoration: underline;
