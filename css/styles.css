@@ -534,7 +534,7 @@ address a:focus {
 }
 
 .footer-subscribe{
-    display: flex;
+    
     padding-left: 80px;
 }
 
@@ -791,25 +791,24 @@ address a:focus {
     text-decoration: underline;
 }
 .formbtn {
-    display: block;
-    padding: 16px 32px;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    min-width: 169px;
-    height: 56px;
-    border-radius: 4px;
-    border: none;
-    background-color: #4d5ae5;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
-    color: #fff;
+    color: #FFF;
+    text-align: center;
     font-size: 16px;
-    font-style: normal;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    font-family: "Roboto", sans-serif;
+    min-width: 169px;
+    height: 56px;
+    border-radius: 4px;
+    background: #4D5AE5;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+    display: block;
+    margin: auto;
+    align-items: center;
+    padding: 16px 32px;
+    margin-top: 16px;
     cursor: pointer;
+    border: none;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .formbtn:hover {
